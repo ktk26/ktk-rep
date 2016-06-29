@@ -6,5 +6,5 @@ def get_repeated_numbers():
 			list_of_repeated_numbers.append(num)
 		i=i+1
 	print(list_of_repeated_numbers)
-list_of_numbers = [11345656,11335656,11345626,12345656,11345656,11345626]
+list_of_numbers = input()
 get_repeated_numbers()
